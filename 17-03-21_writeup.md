@@ -47,11 +47,14 @@ If you provide a GitHub username, I'll use those to credit you for discussions :
 
 __Name, Affiliation, GitHub, Twitter, Link to something (e.g. a comic/paper/meme, etc)__
 - Natalie Thurlby, University of Bristol, NatalieThurlby, @StatalieT, [One way road to beer](https://onewayroadtobeer.com/)
-- 
+- Nina Di Cara, University of Bristol, (GH/:bird:) ninadicara, [Data science a la XKCD](https://xkcd.com/1831/)
 -
 -
 -
 -
+
+
+
 
 ## Discussion
 Each week, we split into breakout rooms of 4-6 people to discuss the material. 
@@ -129,6 +132,20 @@ Here you can try out
 #### Room 6
 
 #### Q3: What did you think about the suggested actions in the paper? Would you take these? Why or why not?
+
+#### Room 1
+
+#### Room 2
+
+#### Room 3
+
+#### Room 4
+
+#### Room 5
+
+#### Room 6
+
+### Bonus Question: What change would you like to see? Who has the power to make that change?
 
 #### Room 1
 
