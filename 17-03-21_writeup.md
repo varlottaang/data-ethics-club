@@ -48,13 +48,25 @@ If you provide a GitHub username, I'll use those to credit you for discussions :
 __Name, Affiliation, GitHub, Twitter, Link to something (e.g. a comic/paper/meme, etc)__
 - Natalie Thurlby, University of Bristol, NatalieThurlby, @StatalieT, [One way road to beer](https://onewayroadtobeer.com/)
 - Nina Di Cara, University of Bristol, (GH/:bird:) ninadicara, [Data science a la XKCD](https://xkcd.com/1831/)
--
--
--
--
-
-
-
+- Huw Day, University of Bristol, Maths PhDoer
+- Vanessa Hanschke, University of Bristol, Interactive AI PhD
+- Graham Lee, University of Oxford, [iamleeg](https://github.com/iamleeg) [oxfordRSE](https://github.com/oxfordrse)
+- Roman Shkunov, University of Bristol Maths/CS student
+- Christina Hitrova, PhD student, Technical University of Munich, @C_Hitrova
+- Ruth Drysdale Jisc 
+- Paul Lee, investment world, @pclee27, senseoffairness.blog
+- Kate Drax, University of Bristol, PhD candidate in metaresearch, @katiedrax- 
+- Paul Stevens, sociology student at University of Bristol
+- Al Tanner • Research Software Engineer @ JGI Bristol, UK • epidemiology and digital footprints :hibiscus: Github [@altanner](https://github.com/altanner) • Twitter [@alastairtanner](https://twitter.com/alastairtanner)
+- Matthew West - University of Exeter RSE group
+- Sergio Araujo-Estrada, University of Bristol, Post-Doc Aero. Eng.
+- Robin Taylor @badgermind retired from insurance and financial risk management, feels learning mathematics and science should be more open 
+- Eanes T. Pereira, Computer Science, UFCG (Brazil), LinkedIn:  [e.t.pereira](https://www.linkedin.com/in/eanes-pereira-987580111/)  
+- Valerio Maggio, SRA @ University of Bristol, GH/:bird:: [@leriomaggio](https://github.com/leriomaggio)  
+- Adriano Winterton, PhD candidate at UiO in biological psychiatry [@fuyu00](https://github.com/fuyu00), :bird: [@fuyu00](https://twitter.com/fuyu00)
+- Robin Dasler, research software product manager (currently unaffiliated)
+- Kamilla 'Milli' Wells, RPA at Australian federal agency, previously QUT https://www.linkedin.com/in/kamilla-wells/
+- Tessa Darbyshire, Scientific Editor, Patterns, Cell Press: tedarbyshire@cell.com @tdarbyshire 
 
 ## Discussion
 Each week, we split into breakout rooms of 4-6 people to discuss the material. 
@@ -105,45 +117,83 @@ Here you can try out
 #### Room 1
 - I have noticed (and I think I am sometimes guilty of perpetuating sometimes :grimacing:) jokes about (least) favourite programming languages, which can come off as "you have to do it THIS way" even though I don't think that.
     - Also, I chose a fairly bro-y example [link](https://onewayroadtobeer.com/) in my introduction :beer:. My intuition is that this isn't as exclusionary because it doesn't imply a judgement, but I'm not confident that others will experience it in this way.
-- 
+    - I quite agree - in our discussion in the break out room, I shared my experience about something happend a couple of years ago @ PyCon Italia. We used to have this social event called PyBeer. After receiving a very good feedback on this point, we decided to change the name to increase the inclusiveness. 
+    - During my PhD I had a very bro-y colleague. Luckily he was receptive to criticism of his language and behaviour and did repond, slowly perhaps.
+-  We spoke about the importance of dicussion in raising awareness of biases, and about how bias extends from the more clearly identifiable (perhaps gender), to more complex inclusivity issues, say geographic, socioeconomic, ethnic.
 
 #### Room 2
+- Sometimes its from women, who have mirrored the aggressive men-dominated software culture
+- Often brogramming is strongest in peer code review sessions
 
 #### Room 3
+- Addressing issues in open science also means addressing issues outside of academia. 
+- People who enforce open science as only working in one particular way prevent people from trying. A sense that it is the only way forwards; instead we need a buffet approach - improve things bit by bit, using what is available rather than seek perfection in a single go.
+- Examples of communities around programming languages (e.g. R and Python) where both languages are 'open' but if the community is unhelpful then it will not encourage people to learn that language. 
+- [Whiteness in Statistics](https://joelemartinez.com/2016/12/28/whiteness-in-statistics/)
+- Addressing issues of 'bros' seems to be generally about addressing rudeness and shortsightedness which is particularly important in the context of science (and open science since it is publicly accessibe). A good scientist should be open minded and look at all POV and evidence to be sure about their results, including POVs of other social groups. Being open and considering all evidence is a part of good science overall and should be discussed as such.
 
 #### Room 4
-
-#### Room 5
-
-#### Room 6
+- People sometimes put things in a way that's complicated on purpose, or try to show-off due to a cut-throat environment in academica.
+- People's think that they have a great idea, but actually they are don't. 
+- Even if you have a completely fair process in some small part of the system, it's still built on the biased things things in the past. E.g. Open science is part of science, so that's why it's an issue. 
+    - Historical gender imbalance: "Recoding Gender" by Janet Abbate, 2012 MIT Press
+- In tech bro culture, especially in hackathons there is a really competitive atmosphere. Putting other people down, being very condescending. 
+    - How to oppose: efforts like Black Girls Code, R ladies, etc.
+    - Who has a weekend to spend doing unpaid computer programming at hackathon? 
+- Pipeline issue: where are we getting PhD students from? This has to be looked at as a lens to solve problems, not an excuse! Some things do work (e.g. widening participation)
+- A lot of childcare structure (e.g. travelling for conferences, etc) can stop people later in careers.
+- Different ways of participating in Open Science movements: what's seen as cool, knowing stuff, sharing stuff, building communities. 
+  - how to recognise, reward, and incentivise these diverse contributions? Not just through e.g. REF but culturally.
+  - "pile-ons" where people try to correct speaker
+  - judgemental presentation of "my way is awesome, you're stupid if you don't do it" is not very persuasive or useful
+- Being opinionated indicates enthusiasm, but doesn't need to spill over into dogma or offensiveness 
+  - :fire: :fire: :fire: "people who claim to be brutally honest are more interested in being brutal than being honest"
+  - opinionated _and_ kind :heart:
 
 #### Q2: What do you think about the idea that "bros find it hard to understand – or accept – that others will have a different lived experience"?
 
 #### Room 1
+- It is natural, very ingrained ideas are difficult to change.
 
 #### Room 2
+- Bro-culture: aggressive & performative, overly self-confident, for Americans - associated with fraternity culture. Always told they have something to contribute and not prone to self-reflection
+- It doesn't really matter whether they understand or not, they are getting in the way of good work.
 
 #### Room 3
+- People seem to think they're being helpful (e.g. correcting people's English when they are asking for advice on another matter). "They meant well". 
+- These ideas that people who are brilliant scientists or programmers etc, but they are *so brilliant* they can't be fired. 
 
 #### Room 4
+- Fair assessment of 'bros' attitude - obsessed with dogma of enforcing given standards (may not be intentional)
+- This "attack mode" attitude developed from defending their work (for example)
+- (:+1: correct me Natalie if I haven't written everything down)
+- 
 
-#### Room 5
-
-#### Room 6
 
 #### Q3: What did you think about the suggested actions in the paper? Would you take these? Why or why not?
 
 #### Room 1
+- For instance, as a concrete action, we could have friends from english-speaking countries helping in reviewing english-written works before sending to conferences or journals.
 
 #### Room 2
+- #broprogrammer could potentially allienating 
+- Rarely is the talk ever consider the economic dimension
+    - The productivity question in academia for a certain amount of funding. How many jobs at the top with any sort of job security?
+    - The socioeconomic background of the individuals who are driving the discussion do NOT like to discuss the system that gives them an edge.
+- Making your work "inviting"
+    - Accessible to new users, potential benefits to yourself
+    - Thinking about how others may be reading your material while you actually generating your work.
+    - Multiple-formats of material
+    - "Accessible" is a weighted word with lots of requirements from a legal framework
+- All of this was so much **easier** when research was done with a homogeneous population
+- FOSS is **NOT** free
 
 #### Room 3
+- Some of the actions or suggestions of how to 'do' Open Science 
+- Importance of leadership in setting the tone of an environment. There are prominent people in certain communities (methodological, programming languages)
 
 #### Room 4
 
-#### Room 5
-
-#### Room 6
 
 ### Bonus Question: What change would you like to see? Who has the power to make that change?
 
@@ -152,12 +202,10 @@ Here you can try out
 #### Room 2
 
 #### Room 3
+We all need to be prepared to call things out. 
 
 #### Room 4
 
-#### Room 5
-
-#### Room 6
 
 ### Misc discussion
 A space for anything else that you chatted about. 
@@ -169,9 +217,6 @@ A space for anything else that you chatted about.
 
 #### Room 4
 
-#### Room 5
-
-#### Room 6
 
 ## After this session
 You have a week to add anything else that you'd like to to this document. 
@@ -182,3 +227,4 @@ Please feel free to leave us some notes below on how the discussion group went f
 
 * Suggestion here
 * Another suggestion here
+* In my room we got involved in a discussion on Q1 and didn't consider the other Qs until near the end, so it'd be helpful to consider other ways to capture the discussion that mean we think more holistically (maybe putting one space for notes after all the Qs, or encouraging us to read the Qs out at the start of the breakout, or something) 
