@@ -128,8 +128,7 @@ Here you can try out
 #### Room 3
 - Addressing issues in open science also means addressing issues outside of academia. 
 - People who enforce open science as only working in one particular way prevent people from trying. A sense that it is the only way forwards; instead we need a buffet approach - improve things bit by bit, using what is available rather than seek perfection in a single go.
-- Examples of communities around programming languages (e.g. R and Python) where both languages are 'open' but if the community is unhelpful then it will not encourage people to learn that language. 
-- [Whiteness in Statistics](https://joelemartinez.com/2016/12/28/whiteness-in-statistics/)
+- Examples of communities around programming languages (e.g. R and Python) where both languages are 'open' but if the community is unhelpful then it will not encourage people to learn that language. E.G. [Whiteness in Statistics](https://joelemartinez.com/2016/12/28/whiteness-in-statistics/)
 - Addressing issues of 'bros' seems to be generally about addressing rudeness and shortsightedness which is particularly important in the context of science (and open science since it is publicly accessibe). A good scientist should be open minded and look at all POV and evidence to be sure about their results, including POVs of other social groups. Being open and considering all evidence is a part of good science overall and should be discussed as such.
 
 #### Room 4
@@ -161,7 +160,9 @@ Here you can try out
 
 #### Room 3
 - People seem to think they're being helpful (e.g. correcting people's English when they are asking for advice on another matter). "They meant well". 
-- These ideas that people who are brilliant scientists or programmers etc, but they are *so brilliant* they can't be fired. 
+- There is this idea that there are people who are brilliant scientists or programmers etc, who are *so brilliant* they can't be fired. 
+- You get the behaviour that you accept and some groupings are too accepting of poor behaviours. People need to be more willing to call it out -- easier for those who are not themselves in minority positions.
+- How does this fit with 'Not All Men' - the authors say that not all men are bros, but presumably they've got the name 'bros' for a reason. 
 
 #### Room 4
 - Fair assessment of 'bros' attitude - obsessed with dogma of enforcing given standards (may not be intentional)
@@ -190,7 +191,8 @@ Here you can try out
 
 #### Room 3
 - Some of the actions or suggestions of how to 'do' Open Science 
-- Importance of leadership in setting the tone of an environment. There are prominent people in certain communities (methodological, programming languages)
+- The buffet is a good image - we don't need to do everything at once to make incremental improvements, and the aim doesn't need to be overall perfection all at once. In some ways, aiming for perfection is a trap that limits action now.
+- Importance of leadership in setting the tone of an environment. There are prominent people in certain communities (methodological, programming languages) who have a lot of power in directing the tone of dicussions and managing the behaviour of others. 
 
 #### Room 4
 
@@ -202,7 +204,7 @@ Here you can try out
 #### Room 2
 
 #### Room 3
-We all need to be prepared to call things out. 
+We all need to be prepared to call things out. We will get more of the behaviour that we accept if we don't.
 
 #### Room 4
 
@@ -212,6 +214,11 @@ A space for anything else that you chatted about.
 #### Room 1
 
 #### Room 2
+*20.03.2021* - Came across a short [think piece](https://ieeexplore.ieee.org/document/6502624) from 2013 about the phenomenon of *brogrammers* and the usefulness of a queer perspective. I believe it's important to stress that "bro-" isn't a commonplace set of masculine traits but rather seeking "to monopolize this power through an alpha male affect in the workplace that encouraged the technological ends and aims of an “elite” subgroup."
+
+"Commenters have focused on the misogyny, sexism, and to a lesser extent, racism of these incidents. Yet, in both of the examples, the elephant in the room is not gender, but sexuality. In particular, the “performance” of a particular kind of heterosexuality as class privilege is highlighted. These incidents can show us something about mainstream computing culture that we do not see if we look straight at it. Indeed, they tell us more about threatened heteronormativity than about differences between women and men."
+
+This sort of affect is less common but when it does occur, far more toxic to the overall community. And since many cultures excuse this behavior with "boys will be boys", there may be no way to counter act its effects in the workplace.
 
 #### Room 3
 
@@ -225,6 +232,6 @@ After that, I'll try to make this document a little more cohesive, then I'll sen
 ## Feedback on the format
 Please feel free to leave us some notes below on how the discussion group went for you this time, positive or negative, and any suggestions to improve (you can always [email us](mailto:grp-ethicaldatascience@groups.bristol.ac.uk) instead):
 
-* Suggestion here
-* Another suggestion here
-* In my room we got involved in a discussion on Q1 and didn't consider the other Qs until near the end, so it'd be helpful to consider other ways to capture the discussion that mean we think more holistically (maybe putting one space for notes after all the Qs, or encouraging us to read the Qs out at the start of the breakout, or something) 
+
+* In my room we got involved in a discussion on Q1 and didn't consider the other Qs until near the end, so it'd be helpful to consider other ways to capture the discussion that mean we think more holistically (maybe putting one space for notes after all the Qs, or encouraging us to read the Qs out at the start of the breakout, or something) (+1)
+* Yes I agree with the suggestion above - it might be nice to have a general space - often the discussion deviates from the questions. Also, I found it a bit difficult to jump between all the questions and find the space for my group - if we keep the questions it might be good to have the main headings be groups and the sub headings as questions instead of the other way around. 
