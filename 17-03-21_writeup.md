@@ -59,12 +59,20 @@ We also discussed making science generally more diverse.
 There are some examples of good programmes in this space, for example [Black Girls Code](https://www.blackgirlscode.com/) and Widening Participation Internships. 
 Diversity isn't just a pipeline problem, though, there are other barriers to diversity that must be addressed for example childcare provision, and hiring policies.
 
+---
+
+## Voting
+
+At the end of the session, we voted:
+
+- __100%__ (18/18) people would recommend this content for a discussion group.
+- __94%__ (17/18) people would recommend this content to a colleague.
 
 ---
 
 ## Attendees
 
-Note: this is not a full list of attendees.
+Note: this is not a full list of attendees, only those who felt comfortable sharing their names.
 
 __Name, Affiliation, GitHub, Twitter__
 - Natalie Thurlby, University of Bristol, NatalieThurlby, @StatalieT
