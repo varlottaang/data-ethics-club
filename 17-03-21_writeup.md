@@ -1,11 +1,11 @@
-# Data Ethics Club disccuses "[#bropenscience is broken science](https://thepsychologist.bps.org.uk/volume-33/november-2020/bropenscience-broken-science)"
+# Data Ethics Club discusses "[#bropenscience is broken science](https://thepsychologist.bps.org.uk/volume-33/november-2020/bropenscience-broken-science)"
 
 :::warning
 <!--Please don't edit this warning panel-->
 ### :arrow_forward: What's this document?
 This is summary of Wednesday 17th March's Data Ethics Club discussion, where we spoke and wrote about the paper [#bropenscience is broken science](https://thepsychologist.bps.org.uk/volume-33/november-2020/bropenscience-broken-science) by Kirstie Whitaker and Olivia Guest.
 
-The summary was written by Natalie Thurlby, who tried to synthesise everyone's contributions to this document and the discussion. "We" = "someone at Data Ethics Club". 
+The summary was written by Natalie Thurlby, who tried to synthesise everyone's contributions to this document and the discussion. "We" = "someone at Data Ethics Club". Nina Di Cara helped with a final edit and an extra paragraph.
 :::
 
 ---
@@ -26,7 +26,7 @@ This isn't exactly new: in the 1930s, Ernest Rutherford claimed you can put scie
 Where does this attitude come from? 
 In academia more widely, we mentioned the competitive nature of the academic jobs market in the scramble for limited funding, the trope of PI "rockstars" :face_vomiting: single-handedly making discoveries, and the power of that role. 
 Incentives are not set up to celebrate community science, e.g. first author papers count for more. 
-In the USA, fraternities particularly nurture this attitude, but other countries certainly seems to manufacture their own brand, too. A lack of diversity at the top seems to cement it.
+In the USA, fraternities particularly nurture this attitude, but other countries certainly seem to manufacture their own brand, too. A lack of diversity at the top seems to cement it.
 
 These problems are not unique to Open Science, but it doesn't mean that Open Science doesn't need do something about it.
 There has been a very timely reminder of this in [curate science's Open Science league table](https://twitter.com/curatescience/status/1371927234899017731) and the subsequent revelation that the league table was [designed to punish people on purpose](https://twitter.com/curatescience/status/1372628395457179648) and was created by someone who is [not](https://twitter.com/curatescience/status/1372581803232493569) [very](https://twitter.com/SimoneSchnall/status/1372574478148964354) [nice](https://twitter.com/eplebel/status/1341546643909451779).
@@ -37,8 +37,10 @@ Some of whom might have made anti-Open-Science arguments that truly were weak ex
 Even if this is true, it's clear that there is a need to outgrow this behaviour now. 
 Otherwise brutal honesty comes across as more of an interest in brutality than honesty.
 
+Many of us also recognised the particular brand of 'you need to struggle because I did', that shrugs off community support efforts and prioritises individual success. Do people fear that increasing the accessibility of complex things they have mastered makes them less unique, special and superior (also known as 'employable' and 'fundable' in a competitive market)?
+
 ### A missed opportunity
-People who were drawn to Open Science because of it's potential to upend some of the perverse power structures in academia (for example by making sure people get credit for their work) find this attitude of superiority and judegment not just rude and impractical, but also deeply disappointing. 
+People who were drawn to Open Science because of its potential to upend some of the perverse power structures in academia (for example by making sure people get credit for their work) find this attitude of superiority and judgement not just rude and impractical, but also deeply disappointing. 
 If Open Science is about showing-off who has the resources to buy in the most fully, then it just mirrors the system they were hoping to dismantle.
 
 ## Combating bropen science: keeping the honesty, and losing the brutality
@@ -48,7 +50,7 @@ We like that the paper gave practical advice on how to address rudeness and crea
 We recognise that to improve things there a need to be opinionated, but it is possible to be opinionated _and_ kind.
 Similarly, criticism can have a place, but it is also necessary to listen to others (particularly in less powerful positions) when they tell you that there are barriers, and consider how you can lower them.
 
-While we each have an opportunity to be welcoming, we also recognise that there are prominent people in certain communities who have a lot of power in directing the tone of dicussions and managing the behaviour of others.
+While we each have an opportunity to be welcoming, we also recognise that there are prominent people in certain communities who have a lot of power in directing the tone of dicussions and managing the behaviour of others. These people have an important part to play if we are looking for wider change. 
 
 ## Combating bropen science systemically
 We also discussed how insecure working conditions for researchers could contribute to the nastiness that is sometimes present in academia. 
