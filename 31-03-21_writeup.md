@@ -65,45 +65,60 @@ Suggestions for what to write down (if you want to):
 
 ### Discussion
 
+#### Suggested Questions
+
+- **Q1**: What do you understand 'dataism' to be, based on this piece?
+- **Q2**: In the battle between privacy and health, will health win? Is improved health care what makes us believe in 'dataism'?
+- **Q3**: Harari says that algorithms will no longer discriminate against us for belonging to a particular group, but because of patterns it sees in us that deviate from the norm. He goes on to say that this will make it difficult to create political movements to fight oppression because your oppression will be indivdiualised. What are your thoughts on this perspective?
+- **Bonus Question:** What change would you like to see on the basis of this piece? Who has the power to make that change?
+
 #### Room 1
 
-##### Q1: What do you understand 'dataism' to be, based on this piece?
+##### Q1
 
-##### Q2: In the battle between privacy and health, will health win? Is improved health care what makes us believe in 'dataism'?
+##### Q2
 
-##### Q3: Harari says that algorithms will no longer discriminate against us for belonging to a particular group, but because of patterns it sees in us that deviate from the norm. He goes on to say that this will make it difficult to create political movements to fight oppression because your oppression will be indivdiualised. What are your thoughts on this perspective?
+##### Q3
 
-##### Miscellaneous
+##### Bonus question
+
+##### Misc
 
 #### Room 2
 
-##### Q1: What do you understand 'dataism' to be, based on this piece?
+##### Q1
 
-##### Q2: In the battle between privacy and health, will health win? Is improved health care what makes us believe in 'dataism'?
+##### Q2
 
-##### Q3: Harari says that algorithms will no longer discriminate against us for belonging to a particular group, but because of patterns it sees in us that deviate from the norm. He goes on to say that this will make it difficult to create political movements to fight oppression because your oppression will be indivdiualised. What are your thoughts on this perspective?
+##### Q3
 
-##### Miscellaneous
+##### Bonus question
+
+##### Misc
 
 #### Room 3
+##### Q1
 
-##### Q1: What do you understand 'dataism' to be, based on this piece?
+##### Q2
 
-##### Q2: In the battle between privacy and health, will health win? Is improved health care what makes us believe in 'dataism'?
+##### Q3
 
-##### Q3: Harari says that algorithms will no longer discriminate against us for belonging to a particular group, but because of patterns it sees in us that deviate from the norm. He goes on to say that this will make it difficult to create political movements to fight oppression because your oppression will be indivdiualised. What are your thoughts on this perspective?
+##### Bonus question
 
-##### Miscellaneous
+##### Misc
 
 #### Room 4
 
-##### Q1: What do you understand 'dataism' to be, based on this piece?
+##### Q1
 
-##### Q2: In the battle between privacy and health, will health win? Is improved health care what makes us believe in 'dataism'?
+##### Q2
 
-##### Q3: Harari says that algorithms will no longer discriminate against us for belonging to a particular group, but because of patterns it sees in us that deviate from the norm. He goes on to say that this will make it difficult to create political movements to fight oppression because your oppression will be indivdiualised. What are your thoughts on this perspective?
+##### Q3
 
-##### Miscellaneous
+##### Bonus question
+
+##### Misc
+
 
 ## After this session
 You have a week to add anything else that you'd like to to this document. 
