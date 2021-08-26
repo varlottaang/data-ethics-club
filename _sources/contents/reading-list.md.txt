@@ -10,6 +10,7 @@ We would love suggestions for new reading materials, or better ways to categoris
 
 ```{admonition} Key
 :class: attention
+- 🎤 = audio only
 - 🕰️ = waiting for paper to drop
 -  ✅ = we've discussed it
 - 📺 = Watching/Listening material
@@ -78,6 +79,7 @@ Note: reading materials appear once in the category we felt they fit best.
 
 * [Privacy is power](https://www.politico.eu/article/privacy-is-power-opinion-data-gdpr/)
 * [Paths to Social License for Tracking-data Analytics](https://psyarxiv.com/9nye8/)
+* [The Rise of Private Spies](https://newrepublic.com/article/161913/we-are-bellingcat-spooked-private-investigators) (suggested by @HDiscoDay)
 
 ## Data ethics in the private and public sectors
 
@@ -91,7 +93,7 @@ Note: reading materials appear once in the category we felt they fit best.
 * 📺[[The mathematics of crime and terrorism](https://www.youtube.com/watch?v=lCjspXB5F4A) - suggested by [@hdiscoday](https://github.com/hdiscoday)
 
 ## Data science culture
-
+* [ESR: Ethics and Society Review of Artificial Intelligence Research](https://arxiv.org/abs/2106.11521) - suggested by [@nataliethurlby](github.com/NatalieThurlby)
 * [Towards Decolonising Computional Science](https://arxiv.org/abs/2009.14258) - suggested by [@nataliethurlby](https://github.com/NatalieThurlby)
 * 📺[Algorithmic Colonialisation](https://ethics.fast.ai/videos/?lesson=9) suggested by [@ninadicara](https://github.com/ninadicara)
 * [#bropenscience is Broken Science](https://thepsychologist.bps.org.uk/volume-33/november-2020/bropenscience-broken-science) - suggested by [@nataliethurlby](https://github.com/NatalieThurlby),  ✅  [17th March 2021](./meetings/2021/03-mar/17-03-21_meeting.md)
@@ -105,6 +107,7 @@ Note: reading materials appear once in the category we felt they fit best.
 ## Ethics in action (the good and the not so good)
 
 * [A toolkit for centering racial equity throughout data integration](https://www.aecf.org/resources/a-toolkit-for-centering-racial-equity-within-data-integration/)<sup>1</sup>
+* [Structural injustice and individual responsibility](https://www.abc.net.au/radionational/programs/philosopherszone/structural-injustice-and-individual-responsibility/13486680) 🎤 - suggested by [Kamilla Wells](https://www.linkedin.com/in/kamilla-wells/)
 * [Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice](https://designjustice.org/s/SSRN-id3189696.pdf)
 * [Data Feminism Book Club](https://datafeminism.io/blog/book/data-feminism-reading-group/)<sup>1</sup>
   * Chapter 7: "Show your work"
